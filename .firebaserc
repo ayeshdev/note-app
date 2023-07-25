@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "srms-fb385": {
+      "hosting": {
+        "note-app": [
+          "srms-fb385"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "srms-fb385"
+  }
+}
